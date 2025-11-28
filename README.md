@@ -13,7 +13,14 @@ This project demonstrates how standard spreadsheets can be transformed into inte
 
 ## 📸 Screenshots
 
-*(Please insert screenshots of your Main Menu or Cashier Interface here)*
+<img width="1128" height="427" alt="image" src="https://github.com/user-attachments/assets/57ae1bac-d019-41c0-98fb-28db8f732e47" />
+
+<img width="438" height="433" alt="image" src="https://github.com/user-attachments/assets/07e3507a-2dca-46fe-891d-c23d240ca246" />
+
+
+<img width="438" height="433" alt="image" src="https://github.com/user-attachments/assets/af0d7878-7c8e-4b30-b5b4-b9e1e9b9652a" />
+
+
 
 ## ✨ Key Features
 
@@ -52,7 +59,6 @@ Since this project contains Macros, Windows security might block the execution b
 
 **Muhammad Kaisar Firdaus**
 * Data Science Undergraduate at Institut Teknologi Sumatera (ITERA)
-* Connect with me on [LinkedIn](Insert Your LinkedIn URL Here)
 
 ---
 *Note: This project is for educational purposes to demonstrate VBA capabilities.*
