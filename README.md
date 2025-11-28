@@ -17,11 +17,6 @@ This project demonstrates how standard spreadsheets can be transformed into inte
 
 <img width="438" height="433" alt="image" src="https://github.com/user-attachments/assets/07e3507a-2dca-46fe-891d-c23d240ca246" />
 
-
-<img width="438" height="433" alt="image" src="https://github.com/user-attachments/assets/af0d7878-7c8e-4b30-b5b4-b9e1e9b9652a" />
-
-
-
 ## ✨ Key Features
 
 * [cite_start]**Interactive GUI:** User-friendly interface built with ActiveX controls for smooth navigation and data entry[cite: 8].
